@@ -1,2 +1,2 @@
-# portfolio
-Portfolio for later use
+# Welcome to my Portfolio
+Artur Yasinskiy
