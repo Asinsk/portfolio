@@ -1,4 +1,4 @@
-Hi there, I am Artur Yasinskiy, A computer Science major.
+Hi there, I am Artur Yasinskiy, Imajor in Computer Science.
 
 Things to do
 - Website
