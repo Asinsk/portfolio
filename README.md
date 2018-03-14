@@ -1,7 +1,5 @@
-## Welcome to my Portfolio
-### Artur Yasinskiy
+Hi there, I am Artur Yasinskiy, A computer Science major.
 
-More info is on my [Portfolio](https://heartaccel.github.io/portfolio/)
-
-### Major Programming Languages
->C++
+Things to do
+-Website
+ -Create index page
