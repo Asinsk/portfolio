@@ -1,4 +1,4 @@
-Hi there, I am Artur Yasinskiy, Imajor in Computer Science.
+Hi there, I am Artur Yasinskiy, I major in Computer Science.
 
 >To do list
 >- Website
