@@ -1,7 +1,7 @@
-# Welcome to my Portfolio
-## Artur Yasinskiy
+## Welcome to my Portfolio
+### Artur Yasinskiy
 
-# Major Programming Languages
+### Major Programming Languages
 >C++
 >C
 >HTML/CSS
